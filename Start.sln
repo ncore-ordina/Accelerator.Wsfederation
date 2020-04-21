@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STS", "STS\STS.csproj", "{9A034A4E-9F8B-435C-939E-ED9F73966DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accelerator.WSFederation.Web", "Accelerator.WSFederation.Web\Accelerator.WSFederation.Web.csproj", "{11D69729-D428-420C-8D2C-639FED1A9748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A034A4E-9F8B-435C-939E-ED9F73966DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A034A4E-9F8B-435C-939E-ED9F73966DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A034A4E-9F8B-435C-939E-ED9F73966DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A034A4E-9F8B-435C-939E-ED9F73966DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D69729-D428-420C-8D2C-639FED1A9748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D69729-D428-420C-8D2C-639FED1A9748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D69729-D428-420C-8D2C-639FED1A9748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D69729-D428-420C-8D2C-639FED1A9748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48CA10E8-3B35-4F07-A1AD-84DA5A82524B}
+	EndGlobalSection
+EndGlobal

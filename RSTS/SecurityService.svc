@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Factory="VLM.SOFA.Security.Service.Implementation.SOFAWSTrustServiceHostFactory" Service="VLM.SOFA.Security.Service.Implementation.SOFASecurityTokenService" %>
